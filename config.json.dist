@@ -13,5 +13,23 @@
   "matrix_scl": 5,
   "welcome_string": "",
   "promo_string": "",
-  "declaration_des_droits_de_lhomme": []
+  "declaration_des_droits_de_lhomme": [
+    "Article 1: Les hommes naissent et demeurent libres et egaux en droits. Les distinctions sociales ne peuvent etre fondees que sur l utilite commune.",
+    "Article 2: Le but de toute association politique est la conservation des droits naturels et imprescriptibles de l Homme. Ces droits sont la liberte, la propriete, la surete et la resistance a l oppression.",
+    "Article 3: Le principe de toute souverainete reside essentiellement dans la Nation. Nul corps, nul individu ne peut exercer d autorite qui n en emane expressement.",
+    "Article 4: La liberte consiste a pouvoir faire tout ce qui ne nuit pas a autrui : ainsi, l exercice des droits naturels de chaque homme n a de bornes que celles qui assurent aux autres Membres de la Societe la jouissance de ces memes droits. Ces bornes ne peuvent etre determinees que par la Loi.",
+    "Article 5: La Loi n a le droit de defendre que les actions nuisibles a la Societe. Tout ce qui n est pas defendu par la Loi ne peut etre empeche, et nul ne peut etre contraint a faire ce qu elle n ordonne pas.",
+    "Article 6: La Loi est l expression de la volonte generale. Tous les Citoyens ont droit de concourir personnellement, ou par leurs Representants, a sa formation. Elle doit etre la meme pour tous, soit qu elle protege, soit qu elle punisse. Tous les Citoyens etant egaux a ses yeux sont egalement admissibles a toutes dignites, places et emplois publics, selon leur capacite, et sans autre distinction que celle de leurs vertus et de leurs talents.",
+    "Article 7: Nul homme ne peut etre accuse, arrete ni detenu que dans les cas determines par la Loi, et selon les formes qu elle a prescrites. Ceux qui sollicitent, expedient, executent ou font executer des ordres arbitraires, doivent etre punis ; mais tout citoyen appele ou saisi en vertu de la Loi doit obeir a l instant : il se rend coupable par la resistance.",
+    "Article 8: La Loi ne doit etablir que des peines strictement et evidemment necessaires, et nul ne peut etre puni qu en vertu d une Loi etablie et promulguee anterieurement au delit, et legalement appliquee.",
+    "Article 9: Tout homme etant presume innocent jusqu a ce qu il ait ete declare coupable, s il est juge indispensable de l arreter, toute rigueur qui ne serait pas necessaire pour s assurer de sa personne doit etre severement reprimee par la loi.",
+    "Article 10: Nul ne doit etre inquiete pour ses opinions, meme religieuses, pourvu que leur manifestation ne trouble pas l ordre public etabli par la loi.",
+    "Article 11: La libre communication des pensees et des opinions est un des droits les plus precieux de l Homme : tout Citoyen peut donc parler, ecrire, imprimer librement, sauf a repondre de l abus de cette liberte dans les cas determines par la Loi.",
+    "Article 12: La garantie des droits de l Homme et du Citoyen necessite une force publique : cette force est donc instituee pour l avantage de tous, et non pour l utilite particuliere de ceux auxquels elle est confiee.",
+    "Article 13: Pour l entretien de la force publique, et pour les depenses d administration, une contribution commune est indispensable : elle doit etre egalement repartie entre tous les citoyens, en raison de leurs facultes.",
+    "Article 14: Tous les Citoyens ont le droit de constater, par eux-memes ou par leurs representants, la necessite de la contribution publique, de la consentir librement, d en suivre l emploi, et d en determiner la quotite, l assiette, le recouvrement et la duree.",
+    "Article 15: La Societe a le droit de demander compte a tout Agent public de son administration.",
+    "Article 16: Toute Societe dans laquelle la garantie des Droits n est pas assuree, ni la separation des Pouvoirs determinee, n a point de Constitution.",
+    "Article 17: La propriete etant un droit inviolable et sacre, nul ne peut en etre prive, si ce n est lorsque la necessite publique, legalement constatee, l exige evidemment, et sous la condition d une juste et prealable indemnite."
+  ]
 }
