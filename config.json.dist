@@ -1,0 +1,17 @@
+{
+  "wifis": [
+    {
+      "ssid": "MY SSID",
+      "password": "PASSWORD",
+    },
+    {
+      "ssid": "MY SSID",
+      "password": "PASSWORD",
+    }
+  ],
+  "matrix_sda": 4,
+  "matrix_scl": 5,
+  "welcome_string": "",
+  "promo_string": "",
+  "declaration_des_droits_de_lhomme": []
+}
